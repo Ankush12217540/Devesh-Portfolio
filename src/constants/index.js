@@ -57,7 +57,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Cloud Computing",
+    title: "Android Development",
     icon: mobile,
   },
   {
@@ -69,7 +69,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "IOT system",
+    title: "DSA",
     icon: creator,
   },
 ];
@@ -117,20 +117,22 @@ const technologies = [
 
 const experiences = [
   {
-    summer_training: "Data Structures and Algorithms",
-    company_name: "GeeksforGeeks : summer Training",
+    title: "Frontend Developer Trainee",
+    company_name: "Gokburu Pvt. Ltd",
     icon: gdu,
     iconBg: "#383E56",
-    date: "June 2024 - July 2024",
+    date: "June 2024 – July 2024",
+    certificateLink: "https://www.linkedin.com/posts/deveshjha1_webdevelopment-frontenddevelopment-reactjs-activity-7290042686596624385-ifr6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADzjCdgB326isMWRpESjOCdyYe3rpykYUQI",
     points: [
-      "Completed a structured summer training on Data Structures and Algorithms.",
-      "Mastered core concepts like arrays, linked lists, trees, graphs, and dynamic programming.",
-      "Practiced real-world problems to enhance problem-solving and logical skills.",
-      "Learned advanced techniques including recursion, backtracking, greedy algorithms, and divide & conquer.",
-      "Prepared for technical interviews through quizzes, exercises, and curated challenges."
+      "Successfully completed summer training in frontend development.",
+      "Built 3+ dynamic web apps using React.js, HTML, CSS, and JavaScript.",
+      "Improved performance by 30% through optimization techniques.",
+      "Collaborated on scalable UI architectures using Tailwind CSS.",
+      "Gained experience in debugging, responsive design, and modern frameworks."
     ],
   },
 ];
+
 
 
 const projects = [

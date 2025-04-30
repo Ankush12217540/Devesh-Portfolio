@@ -11,17 +11,17 @@ import microsoftImage from '../assets/microsoft.png';  // Relative import for mi
 // Example certificates array with image paths
 const certificates = [
   {
-    title: "Data structure and Algorithm",
-    issuer: "Coursera / Stanford University",
-    date: "Nov 30, 2023",
-    demoLink: "https://www.coursera.org/account/accomplishments/verify/85MFRZKHJSNJ",
+    title: "Cloud Computing",
+    issuer: "NPTEL | score : 60%",
+    date: "Nov 30, 2024",
+    demoLink: "https://www.linkedin.com/posts/deveshjha1_nptel-cloudcomputing-elitebatch-activity-7289530467748302848-2saN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADzjCdgB326isMWRpESjOCdyYe3rpykYUQI",
     image: stanfordImage, // Image for this certificate
   },
   {
-    title: "Microsoft Certified",
-    issuer: "Microsoft / Azure Administrator Associate",
+    title: "Web Application Development in PHP",
+    issuer: "Coursera | University of Michigan",
     date: " 23 April 2025",
-    demoLink: "https://learn.microsoft.com/en-in/users/shashankkumar-3368/credentials/4614d9c0b52d3220",
+    demoLink: "https://www.coursera.org/account/accomplishments/certificate/AY34I9WNW0CZ",
     image: microsoftImage, // Image for this certificate
   },
 ];

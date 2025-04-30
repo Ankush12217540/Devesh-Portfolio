@@ -9,7 +9,7 @@ const Footer = () => {
         {/* Glowing Social Icons */}
         <div className="flex space-x-6">
           <a
-            href="  https://github.com/shashank007s     "
+            href="https://github.com/deveshkrjha "
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full border border-purple-500 hover:shadow-[0_0_15px_rgba(168,85,247,0.9)] transition-all duration-300"
@@ -25,7 +25,7 @@ const Footer = () => {
             <FaInstagram size={28} />
           </a>
           <a
-            href="https://www.linkedin.com/in/shashankkumar0007/"
+            href="https://www.linkedin.com/in/deveshjha1/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full border border-blue-500 hover:shadow-[0_0_15px_rgba(96,165,250,0.9)] transition-all duration-300"
@@ -37,16 +37,16 @@ const Footer = () => {
         {/* Glowing Contact Info */}
         <div className="text-sm text-center md:text-left space-y-2">
           <p className="border border-green-500 px-4 py-2 rounded-md hover:shadow-[0_0_15px_rgba(34,197,94,0.9)] transition-all duration-300">
-            📞 Contact: +91 9508725226   
+            📞 Contact: +91 6377751110 
           </p>
           <p className="border border-cyan-400 px-4 py-2 rounded-md hover:shadow-[0_0_15px_rgba(34,211,238,0.9)] transition-all duration-300">
-            ✉️ Email: shashankkumar5901@gmail.com
+            ✉️ Email: medeveshkumarjha@gmail.com 
           </p>
         </div>
 
         {/* Credits */}
         <div className="text-sm text-center md:text-right space-y-1">
-          <p>&copy; {new Date().getFullYear()} Shashank Kumar. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Devesh Kumar Jha. All rights reserved.</p>
           <p>Built with ❤️ using React & TailwindCSS</p>
         </div>
       </div>

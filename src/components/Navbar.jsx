@@ -34,7 +34,7 @@ const Navbar = () => {
         >
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
-            Shashank&nbsp;<span className="sm:block hidden">&nbsp;Kumar</span>
+            Devesh&nbsp;<span className="sm:block hidden">&nbsp;Kumar Jha</span>
           </p>
         </Link>
 

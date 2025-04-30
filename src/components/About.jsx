@@ -45,9 +45,8 @@ const About = () => {
             variants={fadeIn("", "", 0.1, 1)}
             className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
           >
-            Hi, I'm Shashank Kumar, a CSE undergrad at Lovely Professional University with a strong passion for cloud computing, especially Amazon Web Services (AWS). I have a solid foundation in Data Structures & Algorithms, Linux, and backend development with Java.
-I'm currently focused on leveraging AWS services like EC2, S3, Lambda, and security best practices to build and deploy scalable Java-based cloud applications. Beyond tech, I'm also a team player and leader, with valuable experience from participating in zonal-level sports, which has shaped my communication and collaboration skills in tech environments.
-          </motion.p>
+ Hi, I'm Devesh Kumar Jha, a Computer Science Engineering undergraduate at Lovely Professional University, with a deep interest in creating impactful tech solutions through Android and Web Development. My journey has been shaped by a strong grasp of Data Structures & Algorithms, which fuels my love for problem solving and building efficient, user-friendly applications.
+I specialize in crafting intuitive mobile experiences on Android and developing full-stack web applications using modern tools and frameworks. </motion.p>
         </div>
 
         {/* Photo with Animated Lighting Effect */}
