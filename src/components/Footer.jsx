@@ -16,14 +16,7 @@ const Footer = () => {
           >
             <FaGithub size={28} />
           </a>
-          <a
-            href="https://www.instagram.com/shashank_sa2006/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="p-2 rounded-full border border-pink-500 hover:shadow-[0_0_15px_rgba(236,72,153,0.9)] transition-all duration-300"
-          >
-            <FaInstagram size={28} />
-          </a>
+  
           <a
             href="https://www.linkedin.com/in/deveshjha1/"
             target="_blank"
