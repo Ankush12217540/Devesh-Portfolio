@@ -137,26 +137,26 @@ const experiences = [
 
 const projects = [
   {
-    name: "Deployment on AWS",
+    name: "Gptflix Website | AI Movie Recommendation:",
     description:
-      "Deployment of containarized app using Docker and Kubernetes on AW.",
+      "Designed an AI-powered movie recommendation website using Firebase and Google Gemini AI",
     tags: [
       {
-        name: "Docker",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "Kubernetes",
+        name: "javascript",
         color: "green-text-gradient",
       },
     ],
     image: swampmaster,
     source_code_link: "https://github.com/shashank007s",
-    live_project_link: "https://github.com/shashank007s",
+    live_project_link: "https://gptflixe.vercel.app/",
   },
   {
-    name: "Employee management system",
-    description: "Built an Employee management system using mern stack.",
+    name: "Homestay Booking Website | Airbnb Clone:",
+    description: "Engineered a full-fledged homestay booking platform allowing users to book accommodations.",
     tags: [
       {
         name: "React js",
@@ -168,8 +168,8 @@ const projects = [
       },
     ],
     image: bugs,
-    source_code_link: "",
-    live_project_link: "https://github.com/shashank007s",
+    source_code_link: "https://github.com/deveshkrjha?tab=repositories",
+    live_project_link: "https://horental.onrender.com/home",
   },
   {
     name: "3D Portflio Website",
@@ -186,7 +186,7 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/shashank007s",
+    source_code_link: "https://github.com/deveshkrjha?tab=repositories",
     live_project_link: "#",
   },
 ];
